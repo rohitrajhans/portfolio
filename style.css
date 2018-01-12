@@ -49,7 +49,7 @@ body {
 
 ..header-container {
 	margin: 0 auto;
-	width: 1200px;
+	width: 100%;
 }
 
 
@@ -218,7 +218,7 @@ body {
 }
 
 .bio .name-container {
-	width: 1200px;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -237,7 +237,7 @@ body {
 
 .hobbies .hobbies-container {
 	margin: 0 auto;
-	width: 1220px;
+	width: 100%;
 }
 
 .achievements {
@@ -253,7 +253,7 @@ body {
 
 .achievements .achivements-container {
 	margin: 0 auto;
-	width: 1200px;
+	width: 100%;
 }
 
 .separator {
@@ -408,17 +408,17 @@ body {
 	}
 
 	.bio .name-container {
-		width: 300px;
+		width: 100%;
 	}
 
 	.hobbies .hobbies-container {
-		width: 300px;
+		width: 100%;
 
 	}
 
 	.achievements .achievements-container {
-		width: 300px;
-
+		width: 100%;
+		text-align: center;
 	}
 
 
